@@ -1,0 +1,9 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+/* color del header #FDDA24 */
+.mat-toolbar {
+  background-color: white;
+  color: #000000;
+}
